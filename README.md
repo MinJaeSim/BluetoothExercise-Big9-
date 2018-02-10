@@ -35,8 +35,7 @@ Application pictures
 Demo
 -----
 
-For a brief overview of the most important features, please download the **PlayStore Demo** [**MPAndroidChart Example.apk**](https://play.google.com/store/apps/details?id=com.xxmassdeveloper.mpchartexample) and try it out. The corresponding code for the demo-application is also included in this repository inside the **MPChartExample folder**.
+앱 시연영상
 
-[![Demo](https://youtu.be/_S3xNuyDxWk/0.jpg)](https://youtu.be/_S3xNuyDxWk)
-
+[![Demo](http://img.youtube.com/vi/_S3xNuyDxWk/0.jpg)](https://youtu.be/_S3xNuyDxWk)
 
