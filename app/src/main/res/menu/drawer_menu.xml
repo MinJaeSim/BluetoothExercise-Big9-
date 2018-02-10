@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<item-->
+        <!--android:icon="@drawable/ic_run"-->
+        <!--android:id="@+id/nav_exercise_main"-->
+        <!--android:title="메인 화면" />-->
+    <item
+        android:icon="@drawable/ic_person_add"
+        android:id="@+id/nav_user_add"
+        android:title="@string/register_child" />
+    <item
+        android:icon="@drawable/ic_face"
+        android:id="@+id/nav_user_info"
+        android:title="@string/child_info" />
+    <item
+        android:icon="@drawable/ic_contacts"
+        android:id="@+id/nav_friend"
+        android:title="@string/friend_list" />
+    <item
+        android:icon="@drawable/ic_record"
+        android:id="@+id/nav_record"
+        android:title="@string/record" />
+    <item
+        android:icon="@drawable/ic_alarm"
+        android:id="@+id/nav_alarm"
+        android:title="@string/alarm_setting" />
+
+</menu>

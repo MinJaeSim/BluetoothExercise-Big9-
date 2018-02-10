@@ -1,0 +1,74 @@
+<resources xmlns:android="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="FacebookLoginButton" parent="Theme.AppCompat.Light">
+        <item name="colorControlHighlight">#55FFFFFF</item>
+        <item name="colorButtonNormal">#2661E9</item>
+    </style>
+
+    <style name="GoogleLoginButton" parent="Theme.AppCompat.Light">
+        <item name="colorControlHighlight">#55FFFFFF</item>
+        <item name="colorButtonNormal">#DC0F0F</item>
+    </style>
+
+    <style name="MainColorButton" parent="Theme.AppCompat.Light">
+        <item name="colorControlHighlight">#FFFFFF</item>
+        <item name="colorButtonNormal">@color/colorAccent</item>
+    </style>
+
+    <style name="MainColorDarkButton" parent="Theme.AppCompat.Light">
+        <item name="colorControlHighlight">#FFFFFF</item>
+        <item name="colorButtonNormal">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="WhiteColorButton" parent="Theme.AppCompat.Light">
+        <item name="colorControlHighlight">#BEBEBE</item>
+        <item name="colorButtonNormal">@color/colorWhite</item>
+    </style>
+
+    <style name="AppTheme.Picker" parent="Theme.AppCompat.Light.NoActionBar" >
+        <item name="android:textColorPrimary">@color/colorWhite</item>
+        <item name="android:background">@color/colorPrimaryDark</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="EditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="colorControlNormal">@color/colorWhite</item>
+        <item name="colorControlActivated">@color/colorWhite</item>
+        <item name="colorControlHighlight">@color/colorWhite</item>
+    </style>
+
+    <style name="RadioButton"
+        parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/colorWhite</item>
+        <item name="colorControlNormal">@color/colorBlack</item>
+        <item name="colorAccent">@color/colorPrimaryDark</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">#D2D2D2</item>
+        <item name="colorControlActivated">#FED530</item>
+    </style>
+
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/splash</item>
+    </style>
+
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/colorPrimaryDark</item>
+    </style>
+</resources>

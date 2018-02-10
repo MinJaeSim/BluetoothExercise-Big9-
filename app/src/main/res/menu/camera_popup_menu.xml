@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/popup_take_picture"
+        android:title="사진 촬영" />
+
+    <item
+        android:id="@+id/popup_photo_select"
+        android:title="사진 선택" />
+
+    <item
+        android:id="@+id/popup_delete"
+        android:title="삭제" />
+
+
+
+</menu>

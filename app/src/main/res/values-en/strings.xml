@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Big9</string>
+
+    <string-array name="children">
+        <item>김개똥</item>
+        <item>이은정</item>
+        <item>장한나</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>2017</item>
+        <item>2016</item>
+        <item>2015</item>
+        <item>2014</item>
+        <item>2013</item>
+        <item>2012</item>
+        <item>2011</item>
+        <item>2010</item>
+        <item>2009</item>
+        <item>2008</item>
+        <item>2007</item>
+        <item>2006</item>
+        <item>2005</item>
+        <item>2004</item>
+        <item>2003</item>
+        <item>2002</item>
+        <item>2001</item>
+        <item>2000</item>
+    </string-array>
+
+
+    <string-array name="month">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+
+    <string-array name="day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+
+    <string name="welcome_messages">Welcome back %1$s!\n\It\'s time to move!</string>
+
+    <string name="welcome_description">\n\nThe number of stars acquired so far is %d! \nWe have %s days to measure the next athletic ability! \nLet's have fun today!</string>
+    <string name="welcome_none_child">Good morning! \nTo use the app, \nfirst open the menu and \nregister your child!</string>
+
+    <string name="upper_body_strength">Upper body strength</string>
+    <string name="lower_body_strength">Lower body strength</string>
+    <string name="core">Core</string>
+    <string name="muscle_endurance">Muscle endurance</string>
+    <string name="cardiopulmonary_endurance">Lung endurance</string>
+
+    <string name="upper_body_strength_record">Upper</string>
+    <string name="lower_body_strength_record">Lower</string>
+    <string name="core_record">Core</string>
+    <string name="muscle_endurance_record">Muscle</string>
+    <string name="cardiopulmonary_endurance_record">Lung</string>
+
+    <string name="start_button">Start</string>
+    <string name="end_button">Quit</string>
+    <string name="stop_button">Finish</string>
+    <string name="start_exercise">Please press start</string>
+    <string name="ready_exercise">Ready for exercise</string>
+    <string name="practice_exercise">First we will try training exercise</string>
+    <string name="slow_exercise">Take the video slowly!</string>
+    <string name="actual_exercise">Follow the exercise!</string>
+    <string name="measure_exercise">Try as much as you can in a minute!</string>
+    <string name="step1_exercise">Follow the first step exercise!</string>
+    <string name="step2_exercise">Follow the second step exercise!</string>
+    <string name="continuous_exercise">Follow the continuous action!</string>
+    <string name="fast_continuous_exercise">Quickly follow the continuous action!</string>
+    <string name="walking_on_spot">Walk for %d seconds.</string>
+    <string name="rest_exercise">Take a break~</string>
+    <string name="core_exercise">Please hold the posture and press the start button!</string>
+
+    <string name="none_paired">No paired devices.</string>
+    <string name="none_found">No devices found.</string>
+    <string name="title_paired_devices">Paired device list</string>
+    <string name="title_other_devices">Other device list</string>
+    <string name="button_scan">Search for devices</string>
+    <string name="connect_device">Connect device</string>
+
+    <string name="facebook_app_id">989860664447609</string>
+    <string name="height">Height (cm)</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="birth">Birth</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+    <string name="child_info">Child Information</string>
+    <string name="bmi">BMI</string>
+    <string name="predict_height">Predicted Height(cm)</string>
+    <string name="recent_exercise_record">Recent exercise record</string>
+    <string name="exercise_start">Start exercise</string>
+    <string name="choose_exercise">Choose Exercise</string>
+    <string name="basic_course">Basic course</string>
+    <string name="exercise_measure_start">Measure physical ability</string>
+
+    <string name="register_child">Register child</string>
+    <string name="friend_list">Friends</string>
+    <string name="alarm_setting">Alarm setting</string>
+    <string name="record">Record</string>
+
+    <string name="physical_data_score">Physical score</string>
+    <string name="calorie_consumption">Calorie</string>
+
+
+</resources>

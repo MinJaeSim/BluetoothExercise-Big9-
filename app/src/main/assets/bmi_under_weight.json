@@ -1,0 +1,812 @@
+{
+  "5세": {
+    "1step": {
+      "stages": [
+        1,
+        2
+      ],
+      "playTimes": [
+        4367,
+        8067
+      ],
+      "bmiExerciseCount1": 8,
+      "bmiExerciseCount2": 8,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "2step": {
+      "stages": [
+        3,
+        4
+      ],
+      "playTimes": [
+        12800,
+        5367
+      ],
+      "bmiExerciseCount1": 8,
+      "bmiExerciseCount2": 8,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "3step": {
+      "stages": [
+        5,
+        6
+      ],
+      "playTimes": [
+        4033,
+        7767
+      ],
+      "bmiExerciseCount1": 8,
+      "bmiExerciseCount2": 8,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "4step": {
+      "stages": [
+        7,
+        8
+      ],
+      "playTimes": [
+        7900,
+        7300
+      ],
+      "bmiExerciseCount1": 8,
+      "bmiExerciseCount2": 8,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "5step": {
+      "stages": [
+        9,
+        10
+      ],
+      "playTimes": [
+        12633,
+        8667
+      ],
+      "bmiExerciseCount1": 8,
+      "bmiExerciseCount2": 8,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "6step": {
+      "stages": [
+        11,
+        12
+      ],
+      "playTimes": [
+        7333,
+        7267
+      ],
+      "bmiExerciseCount1": 8,
+      "bmiExerciseCount2": 8,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "7step": {
+      "stages": [
+        13,
+        14
+      ],
+      "playTimes": [
+        7533,
+        7533
+      ],
+      "bmiExerciseCount1": 8,
+      "bmiExerciseCount2": 8,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "8step": {
+      "stages": [
+        15,
+        16
+      ],
+      "playTimes": [
+        8400,
+        4533
+      ],
+      "bmiExerciseCount1": 5,
+      "bmiExerciseCount2": 8,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "9step": {
+      "stages": [
+        17,
+        19
+      ],
+      "playTimes": [
+        9667,
+        16533
+      ],
+      "bmiExerciseCount1": 5,
+      "bmiExerciseCount2": 5,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "10step": {
+      "stages": [
+        18,
+        20
+      ],
+      "playTimes": [
+        14100,
+        16533
+      ],
+      "bmiExerciseCount1": 5,
+      "bmiExerciseCount2": 5,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    }
+  },
+  "6세": {
+    "1step": {
+      "stages": [
+        1,
+        2
+      ],
+      "playTimes": [
+        4367,
+        8067
+      ],
+      "bmiExerciseCount1": 9,
+      "bmiExerciseCount2": 9,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "2step": {
+      "stages": [
+        3,
+        4
+      ],
+      "playTimes": [
+        12800,
+        5367
+      ],
+      "bmiExerciseCount1": 9,
+      "bmiExerciseCount2": 9,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "3step": {
+      "stages": [
+        5,
+        6
+      ],
+      "playTimes": [
+        4033,
+        7767
+      ],
+      "bmiExerciseCount1": 9,
+      "bmiExerciseCount2": 9,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "4step": {
+      "stages": [
+        7,
+        8
+      ],
+      "playTimes": [
+        7900,
+        7300
+      ],
+      "bmiExerciseCount1": 9,
+      "bmiExerciseCount2": 9,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "5step": {
+      "stages": [
+        9,
+        10
+      ],
+      "playTimes": [
+        12633,
+        8667
+      ],
+      "bmiExerciseCount1": 9,
+      "bmiExerciseCount2": 9,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "6step": {
+      "stages": [
+        11,
+        12
+      ],
+      "playTimes": [
+        7333,
+        7267
+      ],
+      "bmiExerciseCount1": 8,
+      "bmiExerciseCount2": 8,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    },
+    "7step": {
+      "stages": [
+        13,
+        14
+      ],
+      "playTimes": [
+        7533,
+        7533
+      ],
+      "bmiExerciseCount1": 8,
+      "bmiExerciseCount2": 8,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    },
+    "8step": {
+      "stages": [
+        15,
+        16
+      ],
+      "playTimes": [
+        8400,
+        4533
+      ],
+      "bmiExerciseCount1": 5,
+      "bmiExerciseCount2": 8,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    },
+    "9step": {
+      "stages": [
+        17,
+        19
+      ],
+      "playTimes": [
+        9667,
+        16533
+      ],
+      "bmiExerciseCount1": 5,
+      "bmiExerciseCount2": 5,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    },
+    "10step": {
+      "stages": [
+        18,
+        20
+      ],
+      "playTimes": [
+        14100,
+        16533
+      ],
+      "bmiExerciseCount1": 5,
+      "bmiExerciseCount2": 5,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    }
+  },
+  "7세": {
+    "1step": {
+      "stages": [
+        1,
+        2
+      ],
+      "playTimes": [
+        4367,
+        8067
+      ],
+      "bmiExerciseCount1": 10,
+      "bmiExerciseCount2": 10,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "2step": {
+      "stages": [
+        3,
+        4
+      ],
+      "playTimes": [
+        12800,
+        5367
+      ],
+      "bmiExerciseCount1": 10,
+      "bmiExerciseCount2": 10,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "3step": {
+      "stages": [
+        5,
+        6
+      ],
+      "playTimes": [
+        4033,
+        7767
+      ],
+      "bmiExerciseCount1": 10,
+      "bmiExerciseCount2": 10,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "4step": {
+      "stages": [
+        7,
+        8
+      ],
+      "playTimes": [
+        7900,
+        7300
+      ],
+      "bmiExerciseCount1": 10,
+      "bmiExerciseCount2": 10,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "5step": {
+      "stages": [
+        9,
+        10
+      ],
+      "playTimes": [
+        12633,
+        8667
+      ],
+      "bmiExerciseCount1": 10,
+      "bmiExerciseCount2": 10,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "6step": {
+      "stages": [
+        11,
+        12
+      ],
+      "playTimes": [
+        7333,
+        7267
+      ],
+      "bmiExerciseCount1": 9,
+      "bmiExerciseCount2": 9,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    },
+    "7step": {
+      "stages": [
+        13,
+        14
+      ],
+      "playTimes": [
+        7533,
+        7533
+      ],
+      "bmiExerciseCount1": 9,
+      "bmiExerciseCount2": 9,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    },
+    "8step": {
+      "stages": [
+        15,
+        16
+      ],
+      "playTimes": [
+        8400,
+        4533
+      ],
+      "bmiExerciseCount1": 6,
+      "bmiExerciseCount2": 9,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    },
+    "9step": {
+      "stages": [
+        17,
+        19
+      ],
+      "playTimes": [
+        9667,
+        16533
+      ],
+      "bmiExerciseCount1": 5,
+      "bmiExerciseCount2": 6,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    },
+    "10step": {
+      "stages": [
+        18,
+        20
+      ],
+      "playTimes": [
+        14100,
+        16533
+      ],
+      "bmiExerciseCount1": 5,
+      "bmiExerciseCount2": 6,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    }
+  },
+  "8세": {
+    "1step": {
+      "stages": [
+        1,
+        2
+      ],
+      "playTimes": [
+        4367,
+        8067
+      ],
+      "bmiExerciseCount1": 11,
+      "bmiExerciseCount2": 11,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "2step": {
+      "stages": [
+        3,
+        4
+      ],
+      "playTimes": [
+        12800,
+        5367
+      ],
+      "bmiExerciseCount1": 11,
+      "bmiExerciseCount2": 11,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "3step": {
+      "stages": [
+        5,
+        6
+      ],
+      "playTimes": [
+        4033,
+        7767
+      ],
+      "bmiExerciseCount1": 11,
+      "bmiExerciseCount2": 11,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "4step": {
+      "stages": [
+        7,
+        8
+      ],
+      "playTimes": [
+        7900,
+        7300
+      ],
+      "bmiExerciseCount1": 11,
+      "bmiExerciseCount2": 11,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "5step": {
+      "stages": [
+        9,
+        10
+      ],
+      "playTimes": [
+        12633,
+        8667
+      ],
+      "bmiExerciseCount1": 11,
+      "bmiExerciseCount2": 11,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "6step": {
+      "stages": [
+        11,
+        12
+      ],
+      "playTimes": [
+        7333,
+        7267
+      ],
+      "bmiExerciseCount1": 9,
+      "bmiExerciseCount2": 9,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    },
+    "7step": {
+      "stages": [
+        13,
+        14
+      ],
+      "playTimes": [
+        7533,
+        7533
+      ],
+      "bmiExerciseCount1": 9,
+      "bmiExerciseCount2": 9,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    },
+    "8step": {
+      "stages": [
+        15,
+        16
+      ],
+      "playTimes": [
+        8400,
+        4533
+      ],
+      "bmiExerciseCount1": 6,
+      "bmiExerciseCount2": 9,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    },
+    "9step": {
+      "stages": [
+        17,
+        19
+      ],
+      "playTimes": [
+        9667,
+        16533
+      ],
+      "bmiExerciseCount1": 6,
+      "bmiExerciseCount2": 6,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    },
+    "10step": {
+      "stages": [
+        18,
+        20
+      ],
+      "playTimes": [
+        14100,
+        16533
+      ],
+      "bmiExerciseCount1": 6,
+      "bmiExerciseCount2": 6,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    }
+  },
+  "9세": {
+    "1step": {
+      "stages": [
+        1,
+        2
+      ],
+      "playTimes": [
+        4367,
+        8067
+      ],
+      "bmiExerciseCount1": 12,
+      "bmiExerciseCount2": 12,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "2step": {
+      "stages": [
+        3,
+        4
+      ],
+      "playTimes": [
+        12800,
+        5367
+      ],
+      "bmiExerciseCount1": 12,
+      "bmiExerciseCount2": 12,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "3step": {
+      "stages": [
+        5,
+        6
+      ],
+      "playTimes": [
+        4033,
+        7767
+      ],
+      "bmiExerciseCount1": 12,
+      "bmiExerciseCount2": 12,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "4step": {
+      "stages": [
+        7,
+        8
+      ],
+      "playTimes": [
+        7900,
+        7300
+      ],
+      "bmiExerciseCount1": 12,
+      "bmiExerciseCount2": 12,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "5step": {
+      "stages": [
+        9,
+        10
+      ],
+      "playTimes": [
+        12633,
+        8667
+      ],
+      "bmiExerciseCount1": 12,
+      "bmiExerciseCount2": 12,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 3
+    },
+    "6step": {
+      "stages": [
+        11,
+        12
+      ],
+      "playTimes": [
+        7333,
+        7267
+      ],
+      "bmiExerciseCount1": 10,
+      "bmiExerciseCount2": 10,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    },
+    "7step": {
+      "stages": [
+        13,
+        14
+      ],
+      "playTimes": [
+        7533,
+        7533
+      ],
+      "bmiExerciseCount1": 10,
+      "bmiExerciseCount2": 10,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    },
+    "8step": {
+      "stages": [
+        15,
+        16
+      ],
+      "playTimes": [
+        8400,
+        4533
+      ],
+      "bmiExerciseCount1": 6,
+      "bmiExerciseCount2": 10,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    },
+    "9step": {
+      "stages": [
+        17,
+        19
+      ],
+      "playTimes": [
+        9667,
+        16533
+      ],
+      "bmiExerciseCount1": 6,
+      "bmiExerciseCount2": 7,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    },
+    "10step": {
+      "stages": [
+        18,
+        20
+      ],
+      "playTimes": [
+        14100,
+        16533
+      ],
+      "bmiExerciseCount1": 6,
+      "bmiExerciseCount2": 7,
+      "walkingTime": 10000,
+      "restTime": 5000,
+      "combinationCount1": 3,
+      "combinationCount2": 4
+    }
+  }
+}

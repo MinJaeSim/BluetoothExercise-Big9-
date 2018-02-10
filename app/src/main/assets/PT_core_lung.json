@@ -1,0 +1,362 @@
+{
+  "5세": {
+    "1step": {
+      "stages": [
+        17,
+        4,
+        12
+      ],
+      "playTimes": [
+        9607,
+        5367,
+        7267
+      ],
+      "walkingTime1": 7000,
+      "walkingTime2": 10000
+    },
+    "2step": {
+      "stages": [
+        6,
+        17,
+        9
+      ],
+      "playTimes": [
+        7767,
+        9667,
+        12300
+      ],
+      "walkingTime1": 7000,
+      "walkingTime2": 10000
+    },
+    "3step": {
+      "stages": [
+        3,
+        27,
+        18
+      ],
+      "playTimes": [
+        12800,
+        8033,
+        14100
+      ],
+      "walkingTime1": 7000,
+      "walkingTime2": 10000
+    },
+    "4step": {
+      "stages": [
+        3,
+        26,
+        9
+      ],
+      "playTimes": [
+        12800,
+        8067,
+        12300
+      ],
+      "walkingTime1": 7000,
+      "walkingTime2": 10000
+    },
+    "5step": {
+      "stages": [
+        6,
+        15,
+        20
+      ],
+      "playTimes": [
+        7767,
+        8400,
+        16533
+      ],
+      "walkingTime1": 7000,
+      "walkingTime2": 10000
+    }
+  },
+  "6세": {
+    "1step": {
+      "stages": [
+        17,
+        4,
+        12
+      ],
+      "playTimes": [
+        9607,
+        5367,
+        7267
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    },
+    "2step": {
+      "stages": [
+        6,
+        17,
+        9
+      ],
+      "playTimes": [
+        7767,
+        9667,
+        12300
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    },
+    "3step": {
+      "stages": [
+        3,
+        27,
+        18
+      ],
+      "playTimes": [
+        12800,
+        8033,
+        14100
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    },
+    "4step": {
+      "stages": [
+        3,
+        26,
+        9
+      ],
+      "playTimes": [
+        12800,
+        8067,
+        12300
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    },
+    "5step": {
+      "stages": [
+        6,
+        15,
+        20
+      ],
+      "playTimes": [
+        7767,
+        8400,
+        16533
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    }
+  },
+  "7세": {
+    "1step": {
+      "stages": [
+        17,
+        4,
+        12
+      ],
+      "playTimes": [
+        9607,
+        5367,
+        7267
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    },
+    "2step": {
+      "stages": [
+        6,
+        17,
+        9
+      ],
+      "playTimes": [
+        7767,
+        9667,
+        12300
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    },
+    "3step": {
+      "stages": [
+        3,
+        27,
+        18
+      ],
+      "playTimes": [
+        12800,
+        8033,
+        14100
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    },
+    "4step": {
+      "stages": [
+        3,
+        26,
+        9
+      ],
+      "playTimes": [
+        12800,
+        8067,
+        12300
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    },
+    "5step": {
+      "stages": [
+        6,
+        15,
+        20
+      ],
+      "playTimes": [
+        7767,
+        8400,
+        16533
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    }
+  },
+  "8세": {
+    "1step": {
+      "stages": [
+        17,
+        4,
+        12
+      ],
+      "playTimes": [
+        9607,
+        5367,
+        7267
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    },
+    "2step": {
+      "stages": [
+        6,
+        17,
+        9
+      ],
+      "playTimes": [
+        7767,
+        9667,
+        12300
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    },
+    "3step": {
+      "stages": [
+        3,
+        27,
+        18
+      ],
+      "playTimes": [
+        12800,
+        8033,
+        14100
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    },
+    "4step": {
+      "stages": [
+        3,
+        26,
+        9
+      ],
+      "playTimes": [
+        12800,
+        8067,
+        12300
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    },
+    "5step": {
+      "stages": [
+        6,
+        15,
+        20
+      ],
+      "playTimes": [
+        7767,
+        8400,
+        16533
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    }
+  },
+  "9세": {
+    "1step": {
+      "stages": [
+        17,
+        4,
+        12
+      ],
+      "playTimes": [
+        9607,
+        5367,
+        7267
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    },
+    "2step": {
+      "stages": [
+        6,
+        17,
+        9
+      ],
+      "playTimes": [
+        7767,
+        9667,
+        12300
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    },
+    "3step": {
+      "stages": [
+        3,
+        27,
+        18
+      ],
+      "playTimes": [
+        12800,
+        8033,
+        14100
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    },
+    "4step": {
+      "stages": [
+        3,
+        26,
+        9
+      ],
+      "playTimes": [
+        12800,
+        8067,
+        12300
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    },
+    "5step": {
+      "stages": [
+        6,
+        15,
+        20
+      ],
+      "playTimes": [
+        7767,
+        8400,
+        16533
+      ],
+      "walkingTime1": 6000,
+      "walkingTime2": 9000
+    }
+  }
+}
