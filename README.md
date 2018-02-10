@@ -21,7 +21,7 @@ Application pictures
 
  - **Exercise course**  
 
-![alt tag](https://github.com/jeonjw/BluetoothExercise-Big9-/blob/master/images/intro_4.jp2)
+![alt tag](https://github.com/jeonjw/BluetoothExercise-Big9-/blob/master/images/intro_4.jpg)
 
  - **Alarm**  
 
